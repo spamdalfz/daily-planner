@@ -2,7 +2,7 @@
 Office Hours Daily Planner
 
 ## Description
-Daily planner that will save user inputs and diplay color coded time blocks for past, present, and future.
+Daily planner that will save user inputs and display color coded time blocks for past, present, and future.
 
 ## Website
 [Daily Planner](https://spamdalfz.github.io/daily-planner/)
